@@ -4,3 +4,5 @@ how to call web service from classic asp
 test
 
 haha
+
+中文測試
